@@ -1,0 +1,5 @@
+git merge edits
+git branch -D HEAD
+git add READ.md
+git add examples.md
+git add examples.mdgit branch -D edits
